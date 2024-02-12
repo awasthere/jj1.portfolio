@@ -1,0 +1,29 @@
+html{
+         background:#8CB9BD;
+        }
+#outer-box{
+          background:#FEFBF6;
+          height:450px;
+          width:450px;
+          position:relative;
+           top:50px;
+           left:400px;
+           
+          
+        }
+.inner-box{
+            background:#ECB159;
+            height:200px;
+            width:200px;
+            position:absolute;
+            top:100px;
+            left:130px;
+      
+          }
+a{
+          color:#B67352;
+          font-size:85px;
+         text-align:center;
+         margin-top:20px;
+          
+   }
